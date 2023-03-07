@@ -12,12 +12,12 @@ To learn more about the specific exercise : https://www.theodinproject.com/lesso
 
 - Working with Jest
 - Writing clear and polyvalent tests
-- Getting familiar with TDD workflow (write a simple test, write just enough code to make it pass, if it fails change code, utnil it passes. Write another test ... and so on)
+- Getting familiar with TDD workflow (write a simple test, write just enough code to make it pass, if it fails change code, until it passes. Write another test ... and so on)
 - Organizing code into modules
 
 ## Assignment
 
-Write tests for the following, and then make the tests pass by then writing code :
+Write tests for the following, and then make the tests pass by writing code :
 
 - A capitalize function that takes a string and returns it with the first character capitalized.
 
